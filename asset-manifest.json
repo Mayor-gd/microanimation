@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/microanimation/static/css/main.bf110a10.css",
-    "main.js": "/microanimation/static/js/main.c91d3327.js",
+    "main.js": "/microanimation/static/js/main.7425fb48.js",
     "static/js/488.0ff76172.chunk.js": "/microanimation/static/js/488.0ff76172.chunk.js",
     "index.html": "/microanimation/index.html",
     "main.bf110a10.css.map": "/microanimation/static/css/main.bf110a10.css.map",
-    "main.c91d3327.js.map": "/microanimation/static/js/main.c91d3327.js.map",
+    "main.7425fb48.js.map": "/microanimation/static/js/main.7425fb48.js.map",
     "488.0ff76172.chunk.js.map": "/microanimation/static/js/488.0ff76172.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.bf110a10.css",
-    "static/js/main.c91d3327.js"
+    "static/js/main.7425fb48.js"
   ]
 }
